@@ -1,16 +1,16 @@
 Purpose:
   So this project was created using Tkinter and OpenCv2, the purpose was to apply the different coding
-  libaries combinded into one application. 
-  The menu gives you the ability to login with a username and password *can change in code*, than enter
+  libaries combine into one application. 
+  The menu gives you the ability to login with a username and password *can change in code*, then enter
   into another tk.Tk() window that shows two options, one for taking notes using Tkinter 
-  The other to play videos using OpenCv2 libaries
+  The other to play videos using OpenCv2 libraries
 
 What I learned: 
   I've learned how to create a user interface with tkinter the proper way to gather user input using 
-  Tkinter's libaries, along with applying pictures and buttons. 
-  Followed by Opencv2's video modules and functions that allow selecting a video file and playing possible.
-  Not only that, but problem solving on different stages which one of those stages was when I wanted to intergrate opening an the ('File explorer' for windows),
-  with playing a video into the same function which used Opencv2 and tkinter's libaries having me to combine them together along with using a global variable. 
+  Tkinter's libraries, along with applying pictures and buttons. 
+  Followed by OpenCV2's video modules and functions that allow selecting a video file and playing possible.
+  Not only that, but problem solving on different stages which one of those stages was when I wanted to integrate opening an the (the Windows File Explorer),
+  with playing a video into the same function which used OpenCv2 and tkinter's libraries equiring me to combine them along with using a global variable. 
 
 
   
