@@ -1,0 +1,8 @@
+for (img = ImageTk.PhotoImage(Image.open(r'pictures\Money 100$ 2.png')) you can change it to what ever you want. 
+
+Steps to properly layout in userframe:
+1. download the picture (make sure it's full HD)
+2. create a separate folder called "pictures"
+3. Click and drag your picture from your download's folder into the picture folder in vscode
+4. Then hover over the picuture name than right click on the picture name, go down to the "Copy Relative Path" option
+5. Click on "Copy Relative Path" than paste in between the ' ' within the code I provded within line 1. 
